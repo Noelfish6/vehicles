@@ -1,0 +1,12 @@
+teamName,color,rank/0/matchday,rank/0/position,rank/1/matchday,rank/1/position,rank/2/matchday,rank/2/position,rank/3/matchday,rank/3/position,rank/4/matchday,rank/4/position,rank/5/matchday,rank/5/position,rank/6/matchday,rank/6/position,rank/7/matchday,rank/7/position,rank/8/matchday,rank/8/position,rank/9/matchday,rank/9/position
+Ford,#0162A6,1,1,2,1,3,1,4,1,5,1,6,1,7,1,8,1,9,1,10,1
+Chevrolet,#014689,1,2,2,2,3,2,4,2,5,2,6,2,7,2,8,2,9,2,10,2
+Toyota,#041C42,1,5,2,5,3,4,4,3,5,4,6,3,7,4,8,3,9,3,10,3
+Honda,#EA0001,1,4,2,3,3,3,4,4,5,3,6,4,7,3,8,4,9,4,10,4
+Dodge,#CD003B,1,3,2,4,3,5,4,5,5,5,6,5,7,5,8,5,9,5,10,5
+Datsun,#E00016,1,6,2,6,3,6,4,6,5,7,6,6,7,7,8,6,9,6,10,6
+Harley-Davidson,#F5D30F,1,9,2,8,3,7,4,7,5,6,6,7,7,6,8,7,9,7,10,7
+GMC,#C91119,1,7,2,7,3,8,4,8,5,8,6,8,7,8,8,8,9,8,10,8
+Jeep,#F58113,1,10,2,10,3,10,4,10,5,10,6,9,7,9,8,9,9,10,10,9
+Freightliner,#013893,,,,,,,,,,,,,,,8,10,9,9,10,10
+Pontiac,#A4E5D9,1,8,2,9,3,9,4,9,5,9,6,10,7,10,,,,,,

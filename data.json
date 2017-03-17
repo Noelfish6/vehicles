@@ -1,0 +1,465 @@
+{
+    "leagueCaption": "France Ligue 1", 
+    "standing": [
+        {
+            "teamName": "Ford",
+            "color": "#0162A6", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 1
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 1
+                }
+            ]
+        }, 
+        {
+            "teamName": "Chevrolet",
+            "color": "#014689", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 2
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 2
+                }
+            ]
+        }, 
+        {
+            "teamName": "Toyota",
+            "color": "#041C42", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 3
+                }
+            ]
+        }, 
+        {
+            "teamName": "Honda", 
+            "color": "#EA0001", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 4
+                }
+            ]
+        }, 
+        {
+            "teamName": "Dodge", 
+            "color": "#CD003B", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 3
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 4
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 5
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 5
+                }
+            ]
+        }, 
+        {
+            "teamName": "Datsun", 
+            "color": "#E00016", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 6
+                }
+            ]
+        }, 
+        {
+            "teamName": "Harley-Davidson", 
+            "color": "#F5D30F", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 6
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 7
+                }
+            ]
+        }, 
+        {
+            "teamName": "GMC", 
+            "color": "#C91119", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 7
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 8
+                }
+            ]
+        }, 
+        {
+            "teamName": "Jeep",
+            "color": "#F58113",  
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 9
+                }
+            ]
+        }, 
+        {
+            "teamName": "Pontiac", 
+            "color": "#0898D7", 
+            "rank": [
+                {
+                    "matchday": 1, 
+                    "position": 8
+                }, 
+                {
+                    "matchday": 2, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 3, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 4, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 5, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 6, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 7, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 8, 
+                    "position": 10
+                }, 
+                {
+                    "matchday": 9, 
+                    "position": 9
+                }, 
+                {
+                    "matchday": 10, 
+                    "position": 10
+                }
+            ]
+        }
+    ]
+}
